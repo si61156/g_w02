@@ -34,19 +34,17 @@
     <br>  # &nbsp 1 # 58 # 473 # 1 # akt 05.10.2025
     <br>  # &nbsp 1 # 58 # 473 # 1 # akt 08.10.2025
     <br>  # &nbsp 3 #  &nbsp &nbsp  # &nbsp&nbsp 36 # 1 # akt 23.10.2025
-    <br>  # 39 # &nbsp 3 # &nbsp 91 # 19 # akt 26.10.2025
-    <br>  # &nbsp 3 # &nbsp 7 # 109 # &nbsp 3 # akt 30.10.2025 
+    <br>  # 39 # &nbsp3 # &nbsp 91 # 19 # akt 26.10.2025 
     <div class="container1">
       <h6>h6 # container1: # Ich lerne html </h6>
       <hr>
       <h1>GitHub Host g_w02</h1>
-
+HEAD
       <a type="button" class="btn btn-info btn"        value="submit" href="s10.html" title="">s10.html</a>
       <a type="button" class="btn btn-primary btn"     value="submit" href="s11.html" title="">s11.html</a>
 
       <a type="button" class="btn btn-success btn-sm"  value="submit" href="s12.html" title="">s12.html</a>
       <a type="button" class="btn btn-warning btn-sm"  value="submit" href="s13.html" title="">s13.html</a>
-      <a type="button" class="btn btn-info btn-sm"  value="submit" href="s21.html" title="">s21.html</a>
       <br>
       <hr>
       <p> 1. Überschriften Definition testen  21.10.2025</p>
